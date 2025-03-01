@@ -17,7 +17,7 @@ cd todo-app-c
 Compile with GCC:
 
 ```sh
-gcc -o todo-app todo-app-c.c -ltinfo -lncurses
+gcc -o todo todo.c -ltinfo -lncurses
 ```
 
 Run the app:
