@@ -23,5 +23,5 @@ gcc -o todo todo.c -ltinfo -lncurses
 Run the app:
 
 ```sh
-./todo-app
+./todo
 ```
